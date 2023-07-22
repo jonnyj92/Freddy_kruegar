@@ -1,0 +1,75 @@
+body{
+	margin: 0;
+	font-family: fantasy;
+	line-height: 30px;
+	background-color: darkred;
+}
+header{
+	background-color: darkgreen;
+}
+header {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+header h1{
+	color: darkred;
+	font-size: 55px;
+}
+header img{
+	border-radius: 190px;
+	width: 400px;
+	border: solid 25px darkred;
+}
+h1, h2{
+	font-family: 'Creepster', cursive;
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+
+}
+main img {
+	max-width: 100%;
+	border: solid 25px darkgreen;
+	border-radius: 150px;
+}
+h2{
+	font-size: 35px;
+	color: darkgreen;
+
+}
+main{
+	font-size: 20px;
+	color: darkgreen;
+}
+a{
+	color: darkred;
+}
+a:hover{
+	color: darkred;
+	background-color: purple;
+}
+footer{
+	background-color: darkgreen;
+	text-align: center;
+	color: white;
+}
+footer p{
+	margin: 0;
+}
+footer a{
+	color: white;
+}
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+
+}
+li a{
+	color: darkgreen;
+}
+li{
+	color: darkgreen;
+}
