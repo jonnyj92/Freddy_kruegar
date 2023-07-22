@@ -28,7 +28,11 @@ main{
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
+	margin-bottom: 70px;
 
+}
+main p{
+	margin-bottom: 55px;
 }
 main img {
 	max-width: 100%;
@@ -38,18 +42,16 @@ main img {
 h2{
 	font-size: 35px;
 	color: darkgreen;
+	margin-top: 70px;
 
 }
 main{
 	font-size: 20px;
 	color: darkgreen;
 }
-a{
-	color: darkred;
-}
 a:hover{
-	color: darkred;
-	background-color: purple;
+	color: black;
+	background-color: white;
 }
 footer{
 	background-color: darkgreen;
@@ -64,7 +66,7 @@ footer a{
 }
 footer a:hover{
 	opacity: .5;
-	background-color: transparent;
+	background-color: black;
 
 }
 li a{
@@ -72,4 +74,8 @@ li a{
 }
 li{
 	color: darkgreen;
+}
+li a:hover{
+	color: darkred;
+	background-color: darkgreen;
 }
